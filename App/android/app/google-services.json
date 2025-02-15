@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356773742763",
+    "project_id": "udhaariya",
+    "storage_bucket": "udhaariya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356773742763:android:cc8ea1a7f0697dbf8b8fee",
+        "android_client_info": {
+          "package_name": "com.promeol.udhaariya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ2mTxEzlmYJT4rSui9blzfEbfYnX_ZAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
