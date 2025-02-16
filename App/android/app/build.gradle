@@ -58,8 +58,6 @@ dependencies {
     // Firebase SDK dependencies
     implementation platform('com.google.firebase:firebase-bom:33.9.0') // Firebase BoM
     implementation 'com.google.firebase:firebase-analytics' // Firebase Analytics (required)
-
-    // Add other Firebase dependencies as needed:
-    // implementation 'com.google.firebase:firebase-auth'
-    // implementation 'com.google.firebase:firebase-firestore'
+    implementation("com.google.firebase:firebase-auth")
+    implementation("com.google.android.gms:play-services-auth:21.3.0")
 }

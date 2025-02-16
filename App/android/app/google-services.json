@@ -12,7 +12,20 @@
           "package_name": "com.promeol.udhaariya"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "356773742763-gqodt7bmr46r5bgcm2110jdntghfn96f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.promeol.udhaariya",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "356773742763-m13demhj7brhar0cpbgstc55f3edqblj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAJ2mTxEzlmYJT4rSui9blzfEbfYnX_ZAE"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356773742763-m13demhj7brhar0cpbgstc55f3edqblj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

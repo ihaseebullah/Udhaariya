@@ -14,7 +14,7 @@ const Root = () => {
         backgroundColor={Colors.Primary}
         animated={true}
       />
-      <Stack.Navigator>
+      <Stack.Navigator initialRouteName='Auth'>
         <Stack.Screen
           name="Home"
           component={Home}
