@@ -1,4 +1,5 @@
-package com.promeol.udhaariya
+package com.promeol.udhaariya;
+
 
 import android.app.Application
 import com.facebook.react.PackageList
