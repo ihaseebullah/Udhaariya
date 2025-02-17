@@ -16,7 +16,7 @@ const OboardingStack = () => {
         backgroundColor={Colors.Primary}
         animated={true}
       />
-      <Onboarding.Navigator
+      <Onboarding.Navigator 
         screenOptions={{
           headerShown: false,
           gestureEnabled: true,
